@@ -2,7 +2,9 @@
 The basic codes by CHR, with all animations running on Arduino.
 How to use these code and get your UNO connected LED cube running.
 What you have to do to get you cube working:-
+
 Basic Algo- 
+
 1. Compile main.c along with other .c files you downloaded
 2. Place header files in appropriate directories
 3. Compile 
