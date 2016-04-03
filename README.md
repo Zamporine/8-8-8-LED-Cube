@@ -15,8 +15,8 @@ There's a li'l arduino hack !!
 6. Upload .eep file generated
 
 Arduino UNO:-
+
 1. Copy-Past all the .h & .c files in a NEW folder (name it anything)
-2. 
 3. Cut-Paste that NEW folder in C:\Users\<name>\Documents\Arduino\libraries
 4. Open Arduino IDE (in different directory then above)
 5. File->Preferences
